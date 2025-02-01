@@ -11,6 +11,11 @@ contract BatchEvents {
             // emit the `MyEvent(address,bytes32,uint256)` event
             // Assuming all arrays (emitters, ids, and nums) are of equal length.
             // iterate over the set of parameters and emit events based on the array length.
+            let len:=calldataload(0x64)
+            for {let i:=0} lt(i,len) {i:=add(i,1)}{
+                
+
+            }
         }
     }
 }

@@ -49,7 +49,7 @@ Go through the puzzles sequentially
 30.	[ReadFromDynamicArrayAndRevertOnFailure](https://github.com/RareSkills/yul-puzzles/blob/main/src/ReadFromDynamicArrayAndRevertOnFailure.sol) 
 31.	[WriteToDoubleMapping](https://github.com/RareSkills/yul-puzzles/blob/main/src/WriteToDoubleMapping.sol) 
 32.	[WriteDynamicArrayToStorage](https://github.com/RareSkills/yul-puzzles/blob/main/src/WriteDynamicArrayToStorage.sol) 
-33.	[WriteTwoDynamicArraysToStorage](https://github.com/RareSkills/yul-puzzles/blob/main/src/WriteTwoDynamicArraysToStorage.sol) 
+33.	[WriteTwoDynamicArraysToStorage](https://github.com/RareSkills/yul-puzzles/blob/main/src/WriteTwoDynamicArraysToStorage.sol) //
 34.	[ReadFromPacked128](https://github.com/RareSkills/yul-puzzles/blob/main/src/ReadFromPacked128.sol) 
 35.	[WriteToPacked128](https://github.com/RareSkills/yul-puzzles/blob/main/src/WriteToPacked128.sol) 
 36.	[ReadFromPacked64](https://github.com/RareSkills/yul-puzzles/blob/main/src/ReadFromPacked64.sol) 
@@ -63,9 +63,9 @@ Go through the puzzles sequentially
 44.	[AnonymonusEventWithoutData](https://github.com/RareSkills/yul-puzzles/blob/main/src/AnonymonusEventWithoutData.sol) 
 45.	[AnonymonusEventWithData](https://github.com/RareSkills/yul-puzzles/blob/main/src/AnonymonusEventWithData.sol) 
 46.	[AnonymonusEventWithIndexedData](https://github.com/RareSkills/yul-puzzles/blob/main/src/AnonymonusEventWithIndexedData.sol) 
-47.	[AnonymonusEventWithComplexData](https://github.com/RareSkills/yul-puzzles/blob/main/src/AnonymonusEventWithComplexData.sol) 
-48.	[EventWithComplexData](https://github.com/RareSkills/yul-puzzles/blob/main/src/EventWithComplexData.sol) 
-49.	[BatchEvents](https://github.com/RareSkills/yul-puzzles/blob/main/src/BatchEvents.sol) 
+47.	[AnonymonusEventWithComplexData](https://github.com/RareSkills/yul-puzzles/blob/main/src/AnonymonusEventWithComplexData.sol) //
+48.	[EventWithComplexData](https://github.com/RareSkills/yul-puzzles/blob/main/src/EventWithComplexData.sol) //
+49.	[BatchEvents](https://github.com/RareSkills/yul-puzzles/blob/main/src/BatchEvents.sol) //
 50.	[CalculatorInFallback](https://github.com/RareSkills/yul-puzzles/blob/main/src/CalculatorInFallback.sol)
 51. [ReturnOppositeBool](https://github.com/RareSkills/yul-puzzles/blob/main/src/ReturnOppositeBool.sol)
 52. [ReturnTwoBools](https://github.com/RareSkills/yul-puzzles/blob/main/src/ReturnTwoBools.sol)
@@ -77,3 +77,5 @@ Go through the puzzles sequentially
 58. [ReturnSimpleStruct](https://github.com/RareSkills/yul-puzzles/blob/main/src/ReturnSimpleStruct.sol)
 59. [ReturnTupleOfUint256String](https://github.com/RareSkills/yul-puzzles/blob/main/src/ReturnTupleOfUint256String.sol)
 60. [ReturnTupleOfStringUnit256](https://github.com/RareSkills/yul-puzzles/blob/main/src/ReturnTupleOfStringUnit256.sol)
+
+4 challenges remain
